@@ -16,7 +16,7 @@
 
 ## ⚠️ IMPORTANT: Before You Begin
 
-> **📌 CRITICAL STEP: You MUST read through [`src/xscraper/integration_config.py`](src/xscraper/integration_config.py) before attempting to use this toolkit.**
+> **📌 CRITICAL STEP: You MUST read through [`src/xscraper/integration_config.py`](src/xscraper/integration_config.py) before attempting to use this toolkit and also thoroughly follow INSTRUCTIONS FOR INTEGRATION >USING ANTIGRAVITY:.**
 >
 > This file contains essential configuration parameters, credential setup instructions, rate limit guidelines, and integration requirements. **Every comment in this file is important** for successful integration.
 >
